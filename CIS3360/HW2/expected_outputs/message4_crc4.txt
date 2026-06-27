@@ -1,0 +1,39 @@
+The original message:
+vwxy
+
+The preprocessed message (invisible characters removed):
+vwxy
+
+The decimal representation of the preprocessed message:
+118 119 120 121 
+
+The hex representation of the preprocessed message:
+76 77 78 79 
+
+The binary representation of the preprocessed message:
+01110110 01110111 01111000 01111001
+
+The binary representation of the original message prepared for CRC computation
+(padded with 4 zeros):
+01110110 01110111 01111000 01111001 0000
+
+The crc value for the chosen crc algorithm in binary:
+1100
+
+The crc value for the chosen crc algorithm in hex:
+C
+
+The input in hex for this XOR checksum computation:
+76777879C
+
+The input in binary for this XOR checksum computation:
+0111 0110 0111 0111 0111 1000 0111 1001 1100
+
+The xor checksum value for the chosen crc algorithm in binary:
+1100
+
+The xor checksum value for the chosen crc algorithm in hex:
+C
+
+The final message is going to be transmitted in hex:
+76777879CC

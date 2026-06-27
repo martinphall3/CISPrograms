@@ -1,0 +1,39 @@
+The original message:
+AAAAAAAAAA
+
+The preprocessed message (invisible characters removed):
+AAAAAAAAAA
+
+The decimal representation of the preprocessed message:
+65 65 65 65 65 65 65 65 65 65 
+
+The hex representation of the preprocessed message:
+41 41 41 41 41 41 41 41 41 41 
+
+The binary representation of the preprocessed message:
+01000001 01000001 01000001 01000001 01000001 01000001 01000001 01000001 01000001 01000001
+
+The binary representation of the original message prepared for CRC computation
+(padded with 4 zeros):
+01000001 01000001 01000001 01000001 01000001 01000001 01000001 01000001 01000001 01000001 0000
+
+The crc value for the chosen crc algorithm in binary:
+0110
+
+The crc value for the chosen crc algorithm in hex:
+6
+
+The input in hex for this XOR checksum computation:
+414141414141414141416
+
+The input in binary for this XOR checksum computation:
+0100 0001 0100 0001 0100 0001 0100 0001 0100 0001 0100 0001 0100 0001 0100 0001 0100 0001 0100 0001 0110
+
+The xor checksum value for the chosen crc algorithm in binary:
+0110
+
+The xor checksum value for the chosen crc algorithm in hex:
+6
+
+The final message is going to be transmitted in hex:
+4141414141414141414166
